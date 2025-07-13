@@ -30,12 +30,3 @@ The notebook employs the following key methodologies:
 ## Results and Conclusion
 
 The clustering analysis, particularly with KMeans (k=3), is found to be statistically and visually sound. The resulting clusters are distinct, compact, and meaningfully separated in the PCA space. This demonstrates production-quality clustering suitable for exploratory analysis or downstream applications such as identifying customer segments, player types, or other subgroups.
-
-## How to Run
-
-To run this notebook:
-1.  Ensure you have Python and Jupyter installed.
-2.  Install the required libraries: `pandas`, `numpy`, `seaborn`, `matplotlib`, `scikit-learn`.
-3.  Place the `players_20.csv` dataset in the same directory as the `Fifa20.ipynb` file.
-4.  Open the `Fifa20.ipynb` notebook using Jupyter Lab or Jupyter Notebook.
-5.  Run all cells in the notebook.
